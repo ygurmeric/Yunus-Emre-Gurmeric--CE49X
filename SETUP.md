@@ -1,44 +1,6 @@
-# Python & Jupyter Setup Guide
-
-This guide walks you through installing and configuring Python and Jupyter for our course.
 
 ---
 
-## 1️⃣ Why Python & Jupyter?
-- **Python**: A powerful, user-friendly language widely used in data science, engineering, and more.  
-- **Jupyter**: An interactive environment (notebooks) for code, graphics, and explanatory text—all in one place.
-
----
-
-## 2️⃣ Installing Python
-We recommend the [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) distribution for convenience.
-
-### 🔹 Download & Install
-1. **Download**  
-   - Get Anaconda (full distribution) or Miniconda (lighter version).
-2. **Install**  
-   - Follow on-screen instructions for your OS (Windows, Mac, Linux).
-3. **Verify Installation**  
-   - Open a terminal (or Anaconda Prompt on Windows) and run:
-     ```bash
-     conda --version
-     ```
-   - You should see a version number (e.g., `conda 4.10.3`).
-
----
-
-## 3️⃣ Creating a Conda Environment
-To keep your work organized, create a dedicated environment for this course.
-
-### 🔹 Steps:
-1. **Create Environment**  
-   ```bash
-   conda create --name ce49x python=3.10
-Here is the full **`SETUP.md`** file content. You can copy and paste this directly into your GitHub repository.  
-
----
-
-```md
 # Python & Jupyter Setup Guide
 
 This guide walks you through installing and configuring Python and Jupyter for our course.
@@ -171,3 +133,5 @@ conda env create -f environment.yml
 - **Python for Data Science Handbook**: [Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 
 ---
+
+📌 **If you run into any issues, open a GitHub Issue in this repository or reach out in the course discussion forum. Happy coding!** 🚀
