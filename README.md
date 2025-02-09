@@ -1,9 +1,28 @@
-# CE49X-Spring25
-Repository for CE49X: Data Science for Civil Engineers
+## Cloning the Course Repository
 
-## Getting Started
-To clone this repository, run:
+To get started with the course materials, follow these steps:
+
+### 1. Clone the Repository
+Open your terminal (or Git Bash on Windows) and run:
+
 ```bash
 git clone https://github.com/eyuphankoc/CE49X-Spring25.git
 ```
-If you don't have Anaconda installed, check out the `SETUP.md` file for instructions.
+
+This command will create a local copy of the repository on your machine.
+
+### 2. Navigate to the Repository Directory
+Change into the repository directory with:
+
+```bash
+cd CE49X-Spring25
+```
+
+### 3. Ensure You're on the `main` Branch
+Make sure you are working on the `main` branch:
+
+```bash
+git checkout main
+```
+
+You're now ready to explore the course materials and begin your work!
