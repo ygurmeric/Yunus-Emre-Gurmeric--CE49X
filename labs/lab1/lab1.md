@@ -154,7 +154,7 @@ Follow these steps to commit your lab work and push it to GitHub:
 
 - Ensure that your script runs without errors.
 - Verify that your code is pushed to your GitHub repository.
-- Send a link to your GitHub repository at eyuphan.koc@bogazici.edu.tr.
+- Email the URL of your GitHub repository to eyuphan.koc@bogazici.edu.tr.
 ---
 
 ## 8. Additional Resources
